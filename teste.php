@@ -1,3 +1,3 @@
 <?php
-	$teste = "mauro";
+	echo $teste = "mauro";
 ?>
